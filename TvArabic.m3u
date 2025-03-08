@@ -1,3 +1,4 @@
 #EXTINF:-1, Haedr IPTV
 https://iptv-org.github.io/iptv/index.m3u
-
+#EXTINF:-1, 12
+http://www.q7t1.com:8000/live/karim2/karim2/3.ts
